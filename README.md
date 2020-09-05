@@ -11,6 +11,6 @@ This app ensures an efficient method of sharing items that cost a lot to pocket 
 
 
 *METHODOLOGY*: 
-Collect data of possessions of users of this app, their contact number and email ID, and room number. Users can either lend items or borrow items or both. They may also exchange their possesions, buy-sell physically. Proper searching algorithms and Data privacy would be included for a smooth and secure experience.
+Collect data of possessions of users of this app, their contact number and email ID, and room number. Users can either lend items or borrow items or both. They may also exchange their possesions, buy or sell physically. Proper searching algorithms and Data privacy would be included for a smooth and secure experience.
 It also includes authentic identification of each user through their institute email id to curb any malpractices or spamming.
 
